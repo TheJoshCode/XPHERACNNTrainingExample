@@ -14,7 +14,8 @@ Before you can run this project, make sure you have the following installed:
 ### 2. Setting Up the Project
 
 1. **Clone the Repository**  
-   Clone or download this repository to your local machine.
+   Clone the Repo into an Empty Folder:
+      $ git clone https://github.com/TheJoshCode/XPHERACNNTrainingExample.git
 
 2. **Run the Installation Script**  
    In the project directory, run the `install.bat` file. This will:
