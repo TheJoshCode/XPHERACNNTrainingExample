@@ -4,14 +4,14 @@ This project demonstrates a simple convolutional neural network (CNN) for classi
 
 ## Setup Instructions
 
-### 1. Prerequisites
+### 1. PREREQUISITES
 
 Before you can run this project, make sure you have the following installed:
 
 - Python 3.x (Ensure that Python is added to your system's PATH)
 - Internet connection (for downloading the CIFAR-10 dataset)
 
-### 2. Setting Up the Project
+### 2. SETTING UP THE REPOSITORY
 
 1. **Clone the Repository**  
    Clone the Repo into an Empty Folder:
@@ -27,3 +27,6 @@ Before you can run this project, make sure you have the following installed:
    To run the batch script, double-click `install.bat` or run the following command in a command prompt:
    ```bash
    install.bat
+### 3. RUN TRAINING
+   ```python
+   cifar10trainingeval.py
